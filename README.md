@@ -1,2 +1,2 @@
-# AutomaticTextSummarization
-Creating Using Machine Learning
+# Automatic_Text_Summarization
+Created Using Machine Learning
